@@ -18,7 +18,7 @@ used for the regularization purpose:
     scaling to unit variance.
 
 -   MinMax: Transforming the features by scaling each feature in the
-    range $[0,1]$.
+    range $$ [0,1] $$.
 
 -   Robust: Standardizing the features to unite variance giving less
     importance to the outliers, so in a more *robust* way.
